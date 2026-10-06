@@ -1,0 +1,21 @@
+# Data (downloaded from Kaggle, not redistributed)
+data/*
+!data/README.md
+
+# Generated files
+*-submission-*.csv
+submission*.csv
+catboost_info/
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
